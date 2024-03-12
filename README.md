@@ -4,9 +4,9 @@ In this project, we explored sentiment analysis using four pretrained language m
 
 ### Project Report
 
-```
-will add the arxiv link soon
-```
+
+[http://arxiv.org/abs/2403.06060](http://arxiv.org/abs/2403.06060)
+
 
 ## Dataset
 
